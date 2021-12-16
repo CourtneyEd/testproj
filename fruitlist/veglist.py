@@ -1,3 +1,3 @@
-favourite_veg = ["carrots"]
+favourite_veg = ["carrots", "potato"]
 
-least_favourite_veg = ["swede", "potato",  ""]
+least_favourite_veg = ["swede", "broccoli"]
