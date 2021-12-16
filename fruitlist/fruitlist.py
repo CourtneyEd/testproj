@@ -2,4 +2,4 @@
 
 favourite_fruit = ["strawberries", "watermelon", "grapes", "pomegranate"]
 
-least_favourite_fruit = ["banana", "pear", "oranges"]
+least_favourite_fruit = ["pear", "oranges", "grapefruit"]
